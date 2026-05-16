@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Data (large files — use DVC or similar)
+data/raw/*.parquet
+data/processed/*.parquet
+data/feature_store/
+
+# Models (large binaries)
+saved_models/*.pkl
+saved_models/*.cbm
+saved_models/*.bin
+
+# Reports (generated — not source code)
+reports/shap/*.png
+reports/lime/*.png
+reports/pdp/*.png
+reports/eda/*.png
+reports/features/*.png
+reports/model_comparison/*.png
+reports/*.html
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Spark checkpoints
+/tmp/rideflow_*_ckpt/catboost_info/ 
+test_feature_store.py 
+reports/monitoring/ 
