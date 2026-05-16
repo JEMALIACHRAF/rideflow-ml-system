@@ -1,13 +1,18 @@
-# RideFlow ML System
+<div align="center">
 
-**Real-time ride demand forecasting & dynamic pricing engine for Paris**
 
-![CI](https://github.com/youruser/rideflow-ml-system/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![LightGBM MAPE](https://img.shields.io/badge/MAPE-7.88%25-green)
 ![Tests](https://img.shields.io/badge/tests-32%20passed-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
+
+# RideFlow ML System
+### Real-time ride demand forecasting & dynamic pricing engine for Paris
+
+![CI](https://github.com/JEMALIACHRAF/rideflow-ml-system/actions/workflows/ci.yml/badge.svg)
+
+</div>
 
 ---
 
