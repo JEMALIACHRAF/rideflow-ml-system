@@ -10,7 +10,6 @@
 # RideFlow ML System
 ### Real-time ride demand forecasting & dynamic pricing engine for Paris
 
-![CI](https://github.com/JEMALIACHRAF/rideflow-ml-system/actions/workflows/ci.yml/badge.svg)
 
 </div>
 
